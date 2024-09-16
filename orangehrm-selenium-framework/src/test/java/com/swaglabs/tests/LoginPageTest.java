@@ -1,10 +1,10 @@
-package com.orangehrm.tests;
+package com.swaglabs.tests;
 
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
-import com.orangehrm.baseclass.BaseClass;
-import com.orangehrm.pageobject.LoginPage;
+import com.swaglabs.baseclass.BaseClass;
+import com.swaglabs.pageobject.LoginPage;
 
 public class LoginPageTest extends BaseClass {
 

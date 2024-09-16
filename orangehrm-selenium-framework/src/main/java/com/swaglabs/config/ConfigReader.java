@@ -1,4 +1,4 @@
-package com.orangehrm.config;
+package com.swaglabs.config;
 
 import java.io.FileInputStream;
 import java.util.Properties;

@@ -1,4 +1,4 @@
-package com.orangehrm.pageobject;
+package com.swaglabs.pageobject;
 
 import java.time.Duration;
 
@@ -10,7 +10,7 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 
-import com.orangehrm.baseclass.BaseClass;
+import com.swaglabs.baseclass.BaseClass;
 
 public class LoginPage extends BaseClass {
 

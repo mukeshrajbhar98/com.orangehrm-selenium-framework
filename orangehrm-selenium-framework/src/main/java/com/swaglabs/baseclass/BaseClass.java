@@ -1,4 +1,4 @@
-package com.orangehrm.baseclass;
+package com.swaglabs.baseclass;
 
 import java.util.concurrent.TimeUnit;
 import org.apache.logging.log4j.LogManager;
@@ -9,7 +9,9 @@ import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
-import com.orangehrm.config.ConfigReader;
+
+import com.swaglabs.config.ConfigReader;
+
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class BaseClass {
